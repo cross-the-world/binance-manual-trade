@@ -1,0 +1,5 @@
+numpy
+scipy
+pandas
+python-telegram-bot
+python-binance
